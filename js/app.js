@@ -9,3 +9,4 @@ setInterval(() => {
     document.getElementById("carousal-img").setAttribute("src", imgUrl)
     imgIndex++
 }, 2000)
+
